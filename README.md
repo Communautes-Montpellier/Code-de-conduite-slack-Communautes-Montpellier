@@ -2,7 +2,7 @@
 
 *Ce document n'est pas gravé dans le marbre et est sujet à évolution et amélioration dans le temps.*
 
-**Ce document est une ébauche adapté rapidement de celui du slack [Android France](https://github.com/Android-Dev-FR/Code_de_conduite_Slack_Android_Dev_FR), il sera modifié et voté après l'élection des modérateurs du Slack. 
+**Ce document est une ébauche adapté rapidement de celui du slack [Android France](https://github.com/Android-Dev-FR/Code_de_conduite_Slack_Android_Dev_FR), il sera modifié et voté après l'élection des modérateurs du Slack.**
 
 ## Objectif du groupe 
 
