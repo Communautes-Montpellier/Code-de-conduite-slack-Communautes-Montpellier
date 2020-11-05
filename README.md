@@ -2,51 +2,50 @@
 
 *Ce document n'est pas gravé dans le marbre et est sujet à évolution et amélioration dans le temps.*
 
-**Ce document est une ébauche adapté rapidement de celui du slack [Android France](https://github.com/Android-Dev-FR/Code_de_conduite_Slack_Android_Dev_FR), il sera modifié et voté après l'élection des modérateurs du Slack.**
+**Ce document est une ébauche adapté rapidement de celui du Slack [Android France](https://github.com/Android-Dev-FR/Code_de_conduite_Slack_Android_Dev_FR), il sera modifié et voté après l'élection des modérateurs du Slack.**
 
 ## Objectif du groupe 
 
-Le groupe Slack *Communautés Montpellier* est une communauté francophone rassemblant des personnes souhaitant discuter autour de sujet informatique ou non. L'objectif de ce groupe est de communiquer avec des personnes entre entreprises, entre individus, avec des organismes morals et assotiatifs de Montpellier. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant.
+Le groupe Slack *Communautés Montpellier* est une communauté francophone rassemblant des personnes souhaitant discuter autour de sujets liés à l'informatique ou non. L'objectif de ce groupe est de communiquer avec des personnes entre entreprises, entre individus, avec des organismes moraux et assotiatifs de Montpellier. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant les mêmes intérêts.
 
-C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
-Voici un rappel de ce qui n'est pas toléré sur ce Slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
+C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au en son sein. Plus particulièrement, ce Slack ne tolère pas les remarques, blagues et propos offensants vis à vis de certaines personnes (voir la section 1 du code de conduite ci-dessous pour plus de détails).
 
 ## Diclaimer
 
-Le Slack nommé Communautés Montpellier n'est **aucunement** affilié à [l'association Montpellier Tech Hub](https://montpellier-techhub.org/). Celle-ci aide **certains** meetups informatiques à Montpellier et le Slack n'est q'un vecteur de communication utilisé par l'association. 
+Le Slack nommé Communautés Montpellier n'est **aucunement** affilié à [l'association Montpellier Tech Hub](https://montpellier-techhub.org/) qui a pour vocation d'aider **certains** meetups informatiques à Montpellier. Ce Slack n'est q'un vecteur de communication utilisé par l'association. 
 
 ## Code de conduite
 
-
 ### 1. Le groupe Slack *Communautés Montpellier* doit être un endroit sûr pour tous, peu importe
-* le genre, l'identité du genre ou son expression
-* l'orientation sexuelle
-* les handicaps
-* l'apparence physique (y compris la taille/masse du corps)
-* les ethnies, pays d'origine et nationalités
-* l'âge
-* la religion
 
-### 2. En tant que membre de ce groupe Slack, tu acceptes qu'en tant que communauté : 
+* Le genre, l'identité du genre ou son expression.
+* L'orientation sexuelle.
+* Les handicaps.
+* L'apparence physique (y compris la taille/masse du corps).
+* Les ethnies, pays d'origine et nationalités.
+* L'âge.
+* La religion.
+
+### 2. En tant que membre de ce groupe Slack, tu acceptes qu'en tant que communauté :
+
 * Nous nous engageons collectivement et individuellement à en faire un endroit sûr et inclusif. 
 * Nous n'avons aucune tolérance pour les abus, le harcèlement ou la discrimination.
 * Nous respectons les limites personnelles et l'identité de chacun.
 * Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppressif, par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale.
 * Nous évitons d'utiliser des sujets offensants comme forme d'humour (ou troll) nottament à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
 
-
 ### 3. Nous travaillons activement à :
 
-* Etre une communauté sûre et saine
-* Cultiver un réseau de soutien et d'encouragement pour tous
-* Encourager des formes d'expression responsables et variées
+* Etre une communauté sûre et saine.
+* Cultiver un réseau de soutien et d'encouragement pour tous.
+* Encourager des formes d'expression responsables et variées.
 
 ### 4. Nous condamnons :
 
-* Le traquage, le doxxing, et la divulgation d'informations privées
-* Les menaces de préjudices, le harcèlement
-* Tout ce qui peut compromettre la sécurité d'une personne
-* Les attaques personnelles
+* Le traquage, le [doxxing](https://fr.wikipedia.org/wiki/Doxing), et la divulgation d'informations privées.
+* Les menaces de préjudices, le harcèlement.
+* Tout ce qui peut compromettre la sécurité d'une personne.
+* Les attaques personnelles.
 
 **Ces comportements ne sont pas acceptables.**
 
