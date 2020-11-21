@@ -69,7 +69,9 @@ N'hésitez pas à contacter un autre administrateur en cas de non réponse.
 
 Voici la liste des administrateurs ainsi que leurs identifiants Slack :
 
-TODO: il faut faire un premier sondage pour savoir qui veut être admins. 
+Hugo Gresse @hugo
+Francois Teychene @fteychene
+Quentin Boileau @qboileau
 
 *Le rôle d'un administrateur est d'être un médiateur impartial, il ne modère ni n'édite rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
