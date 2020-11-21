@@ -2,8 +2,6 @@
 
 *Ce document n'est pas gravé dans le marbre et est sujet à évolution et amélioration dans le temps.*
 
-**Ce document est une ébauche adapté rapidement de celui du Slack [Android France](https://github.com/Android-Dev-FR/Code_de_conduite_Slack_Android_Dev_FR), il sera modifié et voté après l'élection des modérateurs du Slack.**
-
 ## Objectif du groupe 
 
 Le groupe Slack *Communautés Montpellier* est une communauté francophone rassemblant des personnes souhaitant discuter autour de sujets liés à l'informatique ou non. L'objectif de ce groupe est de communiquer avec des personnes entre entreprises, entre individus, avec des organismes moraux et assotiatifs de Montpellier. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant les mêmes intérêts.
