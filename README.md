@@ -4,13 +4,13 @@
 
 ## Objectif du groupe 
 
-Le groupe Slack *Communautés Montpellier* est une communauté francophone rassemblant des personnes souhaitant discuter autour de sujets liés à l'informatique ou non. L'objectif de ce groupe est de communiquer avec des personnes entre entreprises, entre individus, avec des organismes moraux et assotiatifs de Montpellier. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant les mêmes intérêts.
+Le groupe Slack *Communautés Montpellier* est une communauté francophone rassemblant des personnes souhaitant discuter autour de sujets liés à l'informatique ou non. L'objectif de ce groupe est de communiquer avec des personnes entre entreprises, entre individus, avec des organismes moraux et associatifs de Montpellier. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant les mêmes intérêts.
 
-C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au en son sein. Plus particulièrement, ce Slack ne tolère pas les remarques, blagues et propos offensants vis à vis de certaines personnes (voir la section 1 du code de conduite ci-dessous pour plus de détails).
+C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté en son sein. Plus particulièrement, ce Slack ne tolère pas les remarques, blagues et propos offensants vis à vis de certaines personnes (voir la section 1 du code de conduite ci-dessous pour plus de détails).
 
 ## Diclaimer
 
-Le Slack nommé Communautés Montpellier n'est **aucunement** affilié à [l'association Montpellier Tech Hub](https://montpellier-techhub.org/) qui a pour vocation d'aider **certains** meetups informatiques à Montpellier. Ce Slack n'est q'un vecteur de communication utilisé par l'association. 
+Le Slack nommé Communautés Montpellier n'est **aucunement** affilié à [l'association Montpellier Tech Hub](https://montpellier-techhub.org/) qui a pour vocation d'aider **certains** meetups informatiques à Montpellier. Ce Slack n'est qu'un vecteur de communication utilisé par l'association. 
 
 ## Code de conduite
 
