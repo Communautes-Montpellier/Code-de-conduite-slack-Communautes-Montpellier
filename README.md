@@ -67,10 +67,10 @@ N'hésitez pas à contacter un autre administrateur en cas de non réponse.
 
 Voici la liste des administrateurs ainsi que leurs identifiants Slack :
 
-Hugo Gresse @hugo
-Sophie Imbach @simbach
-Francois Teychene @fteychene
-Quentin Boileau @qboileau
+Hugo Gresse @hugo  
+Sophie Imbach @simbach  
+Francois Teychene @fteychene  
+Quentin Boileau @qboileau  
 
 *Le rôle d'un administrateur est d'être un médiateur impartial, il ne modère ni n'édite rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
