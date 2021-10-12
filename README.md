@@ -68,6 +68,7 @@ N'hésitez pas à contacter un autre administrateur en cas de non réponse.
 Voici la liste des administrateurs ainsi que leurs identifiants Slack :
 
 Hugo Gresse @hugo
+Sophie Imbach @simbach
 Francois Teychene @fteychene
 Quentin Boileau @qboileau
 
